@@ -21,7 +21,7 @@
 
 
 
-h4> T-20 Cricket Match Analysis: </h4>
+<h4> T-20 Cricket Match Analysis: </h4>
 <ul>
 
 <li> Jupyter Notebook Code (<a href="https://github.com/applehx7/Mentorness/blob/main/Cricket_Analysis_Muaz_Abdullah_MIP-ML-10.ipynb" >🔗uploaded</a>) </li>
